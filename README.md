@@ -6,7 +6,8 @@ claim — two ways:
 
 1. **A copy-paste prompt** they feed to their own private Muse (free
    signup), which interviews them, analyzes their evidence, and drafts
-   their claim packet. → `MUSE_PROMPT.md`
+   their claim packet. The prompt is shared **privately by Zach**
+   (message him) — it is intentionally not in this public repo.
 2. **A plain text guide** for anyone who'd rather do it without AI:
    steps, required evidence, honest expectations. → `TEXT_GUIDE.md`
 
@@ -18,7 +19,6 @@ not a HOPE service, not a government service.**
 ```
 ├── README.md            # this file
 ├── GROUPME_KIT.md       # ready-to-send GroupMe messages (personal note + prompt in chunks)
-├── MUSE_PROMPT.md       # the full prompt in 4 copy-paste parts
 ├── TEXT_GUIDE.md        # the do-it-yourself text guide
 ├── LEGAL_RESOURCES.md   # verified official California resources (links checked 2026-10-13)
 ├── PRIVACY.md           # what is collected and where it goes
@@ -28,11 +28,12 @@ not a HOPE service, not a government service.**
 
 ## How the administrator uses this
 
-1. Open `GROUPME_KIT.md` and send **Message 1** (the personal note) to the
-   team channel. It presents both options.
-2. Send **Messages 2–6** (the prompt, in order) so people can copy them
-   into their own Muse chat. Or share the repo link and let people copy
-   from `MUSE_PROMPT.md`.
+1. Post **Message 1** from `GROUPME_KIT.md` in the "HOPE Employee Rights
+   & Tip Recovery" announcement channel. It presents both options and
+   invites private questions.
+2. Share the Muse prompt **directly and privately** with anyone who asks
+   (message them the chunks — they paste all of them into one new Muse
+   chat, in order).
 3. Share `TEXT_GUIDE.md` (raw GitHub link) for anyone skipping the AI
    route.
 
@@ -55,7 +56,7 @@ convenient place to host the text.
 ## Maintenance
 
 - Re-verify the official links in `LEGAL_RESOURCES.md` quarterly.
-- If California tip law changes, update the prompt's Part 4 and
+- If California tip law changes, update the (privately held) prompt and
   `TEXT_GUIDE.md` together.
 
 ## History
