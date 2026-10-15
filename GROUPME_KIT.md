@@ -35,7 +35,7 @@ evidence, and draft everything for a California wage claim. Everything you
 share stays between you and your Muse — I never see any of it.
 
 OPTION B — Do it yourself with the text guide (no AI needed):
-[REPO URL]/TEXT_GUIDE.md — the steps, what evidence you need, and what to
+https://github.com/zactify/hope-tip-rights-assistant/TEXT_GUIDE.md — the steps, what evidence you need, and what to
 expect if several of us file.
 
 A few honest things: I can't promise anyone money or an outcome. But
