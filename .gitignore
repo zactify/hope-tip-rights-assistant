@@ -1,0 +1,61 @@
+# HOPE Tip Rights Assistant — never commit employee or customer data.
+# This repository must contain ONLY source code, public documentation,
+# and non-confidential templates. See SECURITY.md.
+
+# --- Employee-submitted or employee-identifying material ---
+*.pdf
+*.docx
+*.doc
+*.xlsx
+*.xls
+*.csv
+paystubs/
+pay-stubs/
+w2s/
+w-2s/
+claims/
+submissions/
+statements/
+evidence/
+uploads/
+employee-data/
+*paystub*
+*pay-stub*
+*w-2*
+*w2*
+
+# --- Customer / business-internal records (never publish) ---
+*gingr*
+*invoice*
+*reservation*
+*customer*
+*client-list*
+
+# --- Secrets and credentials ---
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*.json
+*secret*
+!tests/scan_secrets.py
+*token*
+*.token
+
+# --- OS / editor noise ---
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# --- Build / test artifacts ---
+node_modules/
+dist/
+build/
+coverage/
+*.log
